@@ -1,0 +1,69 @@
+body {
+  background-image: url("img/projects/7.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  color: rgb(255, 255, 255);
+}
+.bg-custom {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+.jumbotron img {
+  margin-top: 90px;
+}
+.navbar {
+  background-color: rgba(0, 0, 0, 0.8) !important;
+}
+footer {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+.jumbotron {
+  padding: 40px 20px;
+}
+.jumbotron img {
+  margin-bottom: 20px;
+  box-shadow: 0 5px 8px rgba(0, 0, 0, 0.9);
+  border-radius: 50%;
+}
+
+.jumbotron h1,
+.jumbotron p {
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block 20px;
+  font-family: "Boogaloo", serif;
+}
+
+#projects h2 {
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+#projects p {
+  color: white;
+}
+
+.card {
+  background-color: rgba(0, 0, 0, 0.8);
+  text-align: justify;
+}
+
+.navbar-brand {
+  font-family: "Bona Nova SC", serif;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+}
+
+.logo img {
+  height: 50px;
+  width: auto;
+}
